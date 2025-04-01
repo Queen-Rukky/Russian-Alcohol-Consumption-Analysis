@@ -1,5 +1,5 @@
-# 📊 Russian Alcohol Consumption Analysis 
-## PowerBI and Data Visualization
+# 📊 Russian Alcohol Consumption 
+## PowerBI and Data Visualization Analysis
 ## 📌 Project Overview  
 This project analyzes **alcohol consumption trends across Russian regions**, focusing on beer, vodka, wine, champagne, and brandy. The goal is to understand **regional drinking patterns, public health implications, and market opportunities**.  
 
