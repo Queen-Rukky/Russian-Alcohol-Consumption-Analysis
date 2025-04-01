@@ -33,10 +33,12 @@ Ensure you have the following installed:
 2. **Load the Data in python**
 
     import pandas as pd
+   
 df = pd.read_excel("data/russian_alcohol_consumption.xlsx")
+
 print(df.head())
 
-**Contribution Guidelines**
+# Contribution Guidelines
 We welcome contributions! Please:
 
 Fork the repository and create a new branch.
@@ -45,10 +47,10 @@ Follow best practices for data analysis and documentation.
 
 Submit a pull request with a detailed explanation of your changes.
 
-**License**
+# License
 This project is licensed under the MIT License.
 
-**Contact**
+# Contact
 For inquiries or collaborations, please reach out via GitHub Issues or email.
 
 ---
