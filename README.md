@@ -31,7 +31,8 @@ Ensure you have the following installed:
    cd Russian-Alcohol-Consumption-Analysis
 
 2. **Load the Data in python**
-   import pandas as pd
+
+    import pandas as pd
 df = pd.read_excel("data/russian_alcohol_consumption.xlsx")
 print(df.head())
 
