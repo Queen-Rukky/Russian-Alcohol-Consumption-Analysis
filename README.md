@@ -1,4 +1,27 @@
-# Russian Alcohol Consumption Analysis  
+# 📊 Russian Alcohol Consumption Analysis PowerBI
+
+## 📌 Project Overview  
+This project analyzes **alcohol consumption trends across Russian regions**, focusing on beer, vodka, wine, champagne, and brandy. The goal is to understand **regional drinking patterns, public health implications, and market opportunities**.  
+
+## 🔍 Key Findings  
+- 🍺 **Beer is the most consumed alcoholic beverage** (Avg: 52.94 liters per region), followed by **vodka (14.76 liters)**.  
+- 📍 **Significant regional variations** exist in alcohol preferences.  
+- ⚠️ **High alcohol consumption raises public health and economic concerns**.  
+- 📈 **Business opportunities exist** for alcohol manufacturers and policymakers.  
+
+## ❗ Problem Statements  
+1. **Excessive alcohol consumption**, particularly of beer and vodka, poses health risks such as addiction and liver diseases.  
+2. **Regional disparities** in alcohol preferences suggest economic and cultural influences.  
+3. **Low consumption of brandy and champagne** may indicate affordability issues or lower demand.  
+4. **Alcohol consumption has both positive (economic revenue) and negative (health & social risks) effects**.  
+
+## 💡 Insights  
+- 📊 **Beer and vodka dominate the market**, highlighting demand for affordable, high-volume alcoholic beverages.  
+- 🌍 **Regional variations create market segmentation opportunities** for targeted sales strategies.  
+- 🏥 **Healthcare and public policy interventions** are needed in high-consumption regions to mitigate risks.  
+- 📉 **Low demand for certain beverages (e.g., brandy, champagne) suggests market**
+
+# Russian Alcohol Consumption Analysis Excel 
 
 ## Summary  
 Alcohol consumption is a significant aspect of Russian culture and has been a subject of public health and economic studies for decades. This project aims to analyze historical alcohol consumption trends in Russia, providing insights into the types of alcoholic beverages consumed, changes over time, and potential socio-economic and public health impacts.  
