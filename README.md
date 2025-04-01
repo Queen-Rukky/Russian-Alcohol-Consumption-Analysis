@@ -42,7 +42,7 @@ Work with local communities to promote moderation and responsible drinking habit
   ## Conclusions
   The data clearly shows that beer and vodka dominate alcohol consumption in Russia, with wide regional variations. This insight can help government bodies, businesses, and health organizations make informed decisions about alcohol policies, marketing strategies, and health interventions.
 
-# Russian Alcohol Consumption Analysis Excel 
+## Excel Analysis
 
 ## Summary  
 Alcohol consumption is a significant aspect of Russian culture and has been a subject of public health and economic studies for decades. This project aims to analyze historical alcohol consumption trends in Russia, providing insights into the types of alcoholic beverages consumed, changes over time, and potential socio-economic and public health impacts.  
